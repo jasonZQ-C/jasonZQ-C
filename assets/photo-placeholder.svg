@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="400" viewBox="0 0 320 400" role="img" aria-labelledby="title desc">
+<title id="title">Portrait placeholder / 照片待添加</title>
+<desc id="desc">Replace this placeholder with your own portrait.</desc>
+<rect x="1" y="1" width="318" height="398" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<circle cx="160" cy="133" r="42" fill="#d8e1ea"/>
+<path d="M78 260v-18a82 82 0 0 1 164 0v18" fill="#d8e1ea"/>
+<text x="160" y="310" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#596c80">PHOTO</text>
+<text x="160" y="342" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="18" fill="#596c80">照片待添加</text>
+</svg>

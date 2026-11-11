@@ -1,29 +1,42 @@
-# Profile maintenance · 主页维护
+# Profile Maintenance · 主页维护
 
-## Identity
+## Structure · 结构
+
+主页使用简洁的学术简历布局：姓名与联系方式、About Me、Research Interests、Honors & Awards、Publications、Education、Contact。参考 Guowei-Zou 的 GitHub 主页栏目组织，正文为陈志全自己的信息，不复用其个人经历、论文或照片。
+
+`README.md` 是 GitHub 个人主页正文，`RESEARCH.md` 是研究兴趣补充页。
+
+## Photo · 替换照片
+
+1. 将个人照片上传到本仓库 `assets/photo.jpg`。
+2. 将 `README.md` 第一行的 `src="assets/photo-placeholder.svg"` 改为 `src="assets/photo.jpg"`。
+3. 将 `alt` 改为 `Jason · 陈志全`。按照片比例调整或删除 `height="188"`。
+
+右上角当前是中性占位图，不是生成或借用的个人照片。GitHub 左侧圆形头像需在 Settings → Public profile → Profile picture 中单独上传；修改 README 照片不会改变账户头像。
+
+## Publications · 添加论文
+
+在 README 的 Publications 栏替换“论文信息后续补充”，同一位置的 HTML 注释内已有标题、作者、会议/期刊与链接模板。只填写真实论文信息和发表状态，没有的链接删去。
+
+## Identity & Award · 个人信息与奖项
 
 - 中文姓名：陈志全；英文展示名：Jason。
-- 中山大学计算机专业研三学生 / Third-year graduate student in Computer Science, Sun Yat-sen University.
-- 主要方向：计算机视觉、具身智能。
-- 用户指定公开联系邮箱：18374362376@163.com。
+- 中山大学计算机专业研三学生。未明确硕士或博士，不自行添加学位类型、导师、实验室或起止年份。
+- 方向：计算机视觉、具身智能。
+- 本人指定公开邮箱：18374362376@163.com。
+- 本人提供的奖项：第七届中国图像图形工业检测算法挑战赛冠军。未提供获奖年份、具体赛道、团队与官方链接，不自行补充。
+- 英文赛事名称是中文名称的描述性翻译，后续可按证书或赛事官方英文名调整。
 
-“研究生”未明确硕士或博士，主页不自行添加M.Sc.、Ph.D.、具体实验室、导师或毕业年份。
+## Privacy · 公开边界
 
-## Editing
+不公开私人实验仓库、权重、未发表结果、运行日志或凭据，不自动修改其他仓库的可见性。
 
-- `README.md`为GitHub个人主页正文，`RESEARCH.md`为研究兴趣补充页。
-- `assets/research-banner-light.svg`和`assets/research-banner-dark.svg`为原创代码绘制的矢量横幅。
-- 若学生阶段发生变化，同步修改正文和横幅。
-- 论文、奖项、工作经历、开源项目与学术主页，只在本人提供准确内容和链接后添加。
-- 当前公开的是个人主页仓库。私人实验仓库、权重、未发表结果和运行日志不自动公开，也不在主页放置无法公开访问的项目链接。
-- 不使用访问量追踪、第三方统计卡片或未经核实的成就徽章。
+## Sidebar · 左侧资料（可手动填写）
 
-## Suggested sidebar profile
+打开 https://github.com/settings/profile 后填写：
 
-Name: `陈志全 · Jason`
+- Name: `陈志全 · Jason`
+- Bio: `CS graduate student @ Sun Yat-sen University | Computer Vision & Embodied Intelligence | 计算机视觉 · 具身智能`
+- Company: `Sun Yat-sen University · 中山大学`
 
-Bio: `CS graduate student @ Sun Yat-sen University | Computer Vision & Embodied Intelligence | 计算机视觉 · 具身智能`
-
-Company / affiliation: `Sun Yat-sen University · 中山大学`
-
-These account fields require profile-write permission separately from repository access. Publishing this README does not by itself update them.
+账户侧栏修改需要账户资料写入权限，README 发布不代表这些字段已修改。

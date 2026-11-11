@@ -1,75 +1,64 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-banner-light.svg">
-  <img alt="陈志全 · Jason — Computer Vision and Embodied Intelligence, Sun Yat-sen University" src="assets/research-banner-light.svg" width="100%">
-</picture>
+<img align="right" src="assets/photo-placeholder.svg" alt="Portrait placeholder · 照片待添加" width="150" height="188">
 
-<p align="center">
-  <a href="#about--关于我">About / 关于我</a> &nbsp; · &nbsp;
-  <a href="#research--研究方向">Research / 研究方向</a> &nbsp; · &nbsp;
-  <a href="RESEARCH.md">Research notes / 研究笔记</a> &nbsp; · &nbsp;
-  <a href="mailto:18374362376@163.com">Contact / 联系</a>
-</p>
+# Jason · 陈志全
 
-## About · 关于我
+**Computer Vision & Embodied Intelligence**  
+**计算机视觉 · 具身智能**
 
-I'm **Jason (陈志全)**, a **third-year graduate student in Computer Science at [Sun Yat-sen University](https://www.sysu.edu.cn/)**. My research interests lie in **computer vision** and **embodied intelligence**. I'm interested in how visual representations support robust perception, spatial understanding, and interaction with the physical world.
+Third-year graduate student in Computer Science  
+[Sun Yat-sen University](https://www.sysu.edu.cn/) · 中山大学
 
-我是**陈志全（Jason）**，**中山大学计算机专业研三学生**，主要关注**计算机视觉与具身智能**。希望连接视觉感知、表征学习与真实世界交互，探索更可靠、可泛化的智能系统。
+📧 [18374362376@163.com](mailto:18374362376@163.com)  
+[GitHub](https://github.com/jasonZQ-C) · [Research notes / 研究笔记](RESEARCH.md)
 
-## Research · 研究方向
+## About Me · 关于我
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I am **Jason (陈志全)**, a third-year graduate student in Computer Science at **Sun Yat-sen University**. My research interests are **computer vision** and **embodied intelligence**, with a particular interest in robust visual perception, anomaly detection, and generalization across object categories. I am also interested in how visual understanding can support spatial reasoning and interaction with the physical world.
 
-### Computer Vision
-**计算机视觉**
+我是**陈志全（Jason）**，**中山大学计算机专业研三学生**，主要研究方向为**计算机视觉与具身智能**。目前关注可靠视觉感知、工业异常检测与跨类别泛化，也希望探索视觉理解如何服务于空间推理和真实环境交互。
 
-Visual representation learning, anomaly detection and localization, and generalization with limited reference data.
+## Research Interests · 研究方向
 
-关注视觉表征、异常检测与定位，以及有限参考样本下的泛化能力。
+- **Computer Vision / 计算机视觉** — Visual representation learning, industrial anomaly detection and localization, and generalization with limited normal references.  
+  视觉表征学习、工业异常检测与缺陷定位，以及少量正常参考条件下的泛化。
+- **Embodied Intelligence / 具身智能** — Visual perception, spatial understanding, and the connection between perception, action, and environmental interaction.  
+  视觉感知、空间理解，以及感知、行动与环境交互之间的联系。
 
-</td>
-<td width="50%" valign="top">
+## Honors & Awards · 荣誉与竞赛
 
-### Embodied Intelligence
-**具身智能**
+🏆 **冠军｜第七届中国图像图形工业检测算法挑战赛**  
+**Champion — 7th China Image and Graphics Industrial Inspection Algorithm Challenge**
 
-Exploring the connection between visual perception, spatial reasoning, and perception–action learning.
+<!-- 可补充获奖年份、赛道、团队名称与官方结果链接；仅填写已核实信息。 -->
 
-关注视觉感知与空间理解，以及感知、行动和环境交互之间的联系。
+## Publications · 论文
 
-</td>
-</tr>
-</table>
+Publications will be added here. / 论文信息后续补充。
 
-## Current focus · 近期关注
+<!--
+新增论文时复制以下格式，并删除本段占位说明：
 
-- **Reliable visual inspection** — anomaly detection and localization under limited normal references.  
-  **可靠的视觉检测**：少量正常参考条件下的异常检测与缺陷定位。
-- **Generalizable perception** — representations that transfer across objects, categories, and visual conditions.  
-  **可泛化的视觉感知**：跨物体、跨类别与不同视觉条件的表征迁移。
-- **From perception to interaction** — studying how visual understanding can support embodied systems.  
-  **从感知走向交互**：探索视觉理解如何为具身智能提供支持。
+### Paper Title / 论文标题
+Author A, **Jason Chen**, Author C  
+Venue, Year  
+[Paper](https://...) · [Code](https://...) · [Project](https://...)
 
-<sub>These describe my current interests and ongoing explorations. Research code and notes will be shared as they become ready. / 以上为研究兴趣与持续探索方向，代码和笔记将在整理完善后逐步分享。</sub>
+作者姓名、顺序、会议/期刊、年份与发表状态请按正式论文信息填写。
+没有的链接直接删去，不要保留 https://... 占位链接。
+-->
 
-## Research practice · 研究与实践
+## Education · 教育经历
 
-**Clear protocols · Reproducible experiments · Meaningful evaluation**  
-重视清晰的数据边界、可复现的实验，以及能够解释方法价值的评测与分析。
+**Sun Yat-sen University · 中山大学**  
+Graduate student in Computer Science · Third year  
+计算机专业研究生 · 研三
 
-I primarily work with **Python, PyTorch, and computer vision tools**, connecting research ideas with working experimental pipelines.
+<!-- 可补充入学年份、明确的学位类型、实验室与导师；当前不推断硕士/博士或起止年份。 -->
 
-主要使用 **Python、PyTorch 与视觉工具链**，将研究思路落实为可运行、可分析的实验流程。
+## Contact · 联系方式
 
----
-
-### Connect · 联系
-
-I'm happy to exchange ideas on computer vision, embodied intelligence, and reproducible research.  
-欢迎交流计算机视觉、具身智能与科研实践。
+I welcome discussions on computer vision, embodied intelligence, and research collaboration.  
+欢迎交流计算机视觉、具身智能及相关科研合作。
 
 **Email / 邮箱:** [18374362376@163.com](mailto:18374362376@163.com)  
 **GitHub:** [@jasonZQ-C](https://github.com/jasonZQ-C)
