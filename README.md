@@ -1,11 +1,11 @@
-<img align="right" src="assets/photo-placeholder.svg" alt="Portrait placeholder · 照片待添加" width="150" height="188">
+<img align="right" src="assets/证件照.png" alt="Jason · 陈志全" width="150">
 
 # Jason · 陈志全
 
 **Computer Vision & Embodied Intelligence**  
 **计算机视觉 · 具身智能**
 
-Third-year graduate student in Computer Science  
+Third-year master's student in Computer Science  
 [Sun Yat-sen University](https://www.sysu.edu.cn/) · 中山大学
 
 📧 [18374362376@163.com](mailto:18374362376@163.com)  
@@ -13,9 +13,9 @@ Third-year graduate student in Computer Science
 
 ## About Me · 关于我
 
-I am **Jason (陈志全)**, a third-year graduate student in Computer Science at **Sun Yat-sen University**. My research interests are **computer vision** and **embodied intelligence**, with a particular interest in robust visual perception, anomaly detection, and generalization across object categories. I am also interested in how visual understanding can support spatial reasoning and interaction with the physical world.
+I am **Jason (陈志全)**, a third-year master's student in Computer Science at **Sun Yat-sen University**. My research interests are **computer vision** and **embodied intelligence**, with a particular interest in robust visual perception, anomaly detection, and generalization across object categories. I am also interested in how visual understanding can support spatial reasoning and interaction with the physical world.
 
-我是**陈志全（Jason）**，**中山大学计算机专业研三学生**，主要研究方向为**计算机视觉与具身智能**。目前关注可靠视觉感知、工业异常检测与跨类别泛化，也希望探索视觉理解如何服务于空间推理和真实环境交互。
+我是**陈志全（Jason）**，**中山大学计算机专业硕士研究生（研三）**，主要研究方向为**计算机视觉与具身智能**。目前关注可靠视觉感知、工业异常检测与跨类别泛化，也希望探索视觉理解如何服务于空间推理和真实环境交互。
 
 ## Research Interests · 研究方向
 
@@ -50,10 +50,10 @@ Venue, Year
 ## Education · 教育经历
 
 **Sun Yat-sen University · 中山大学**  
-Graduate student in Computer Science · Third year  
-计算机专业研究生 · 研三
+Master's student in Computer Science · Third year  
+计算机专业硕士研究生 · 研三
 
-<!-- 可补充入学年份、明确的学位类型、实验室与导师；当前不推断硕士/博士或起止年份。 -->
+<!-- 可补充入学年份、实验室与导师；学位阶段已由本人确认为硕士，起止年份待补充。 -->
 
 ## Contact · 联系方式
 

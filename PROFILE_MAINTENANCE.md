@@ -8,11 +8,11 @@
 
 ## Photo · 替换照片
 
-1. 将个人照片上传到本仓库 `assets/photo.jpg`。
-2. 将 `README.md` 第一行的 `src="assets/photo-placeholder.svg"` 改为 `src="assets/photo.jpg"`。
-3. 将 `alt` 改为 `Jason · 陈志全`。按照片比例调整或删除 `height="188"`。
+主页右上角已使用本人上传的 `assets/证件照.png`，通过 `width="150"` 保持照片原有比例。
 
-右上角当前是中性占位图，不是生成或借用的个人照片。GitHub 左侧圆形头像需在 Settings → Public profile → Profile picture 中单独上传；修改 README 照片不会改变账户头像。
+如需更换，覆盖同名文件即可；如使用新文件名，请同步修改 README 第一行的 `src`。
+
+GitHub 左侧圆形头像需在 Settings → Public profile → Profile picture 中单独上传；修改 README 照片不会改变账户头像。
 
 ## Publications · 添加论文
 
@@ -21,7 +21,7 @@
 ## Identity & Award · 个人信息与奖项
 
 - 中文姓名：陈志全；英文展示名：Jason。
-- 中山大学计算机专业研三学生。未明确硕士或博士，不自行添加学位类型、导师、实验室或起止年份。
+- 中山大学计算机专业硕士研究生（研三），学位阶段由本人确认；不自行添加导师、实验室或起止年份。
 - 方向：计算机视觉、具身智能。
 - 本人指定公开邮箱：18374362376@163.com。
 - 本人提供的奖项：第七届中国图像图形工业检测算法挑战赛冠军。未提供获奖年份、具体赛道、团队与官方链接，不自行补充。
@@ -36,7 +36,7 @@
 打开 https://github.com/settings/profile 后填写：
 
 - Name: `陈志全 · Jason`
-- Bio: `CS graduate student @ Sun Yat-sen University | Computer Vision & Embodied Intelligence | 计算机视觉 · 具身智能`
+- Bio: `CS master's student @ Sun Yat-sen University | Computer Vision & Embodied Intelligence | 计算机视觉 · 具身智能`
 - Company: `Sun Yat-sen University · 中山大学`
 
 账户侧栏修改需要账户资料写入权限，README 发布不代表这些字段已修改。
