@@ -20,7 +20,7 @@ I am **Jason (陈志全)**, a third-year master's student in Computer Science at
 ## Research Interests · 研究方向
 
 - **Computer Vision / 计算机视觉** — Visual representation learning, industrial anomaly detection and localization, and generalization with limited normal references.  
-  视觉表征学习、工业异常检测与缺陷定位，以及少量正常参考条件下的泛化。
+  视觉表征学习、医学图像分割，工业异常检测与缺陷定位，以及少量正常参考条件下的泛化。
 - **Embodied Intelligence / 具身智能** — Visual perception, spatial understanding, and the connection between perception, action, and environmental interaction.  
   视觉感知、空间理解，以及感知、行动与环境交互之间的联系。
 
